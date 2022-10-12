@@ -6,4 +6,5 @@ def main():
     menu.principal()
 
 
+# This is the principal function
 main()
